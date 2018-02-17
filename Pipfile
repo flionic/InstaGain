@@ -1,4 +1,4 @@
-telegram
-pymysql
-python-telegram-bot
-requests
+PyMySQL==0.8.0
+python-telegram-bot==9.0.0
+requests==2.18.4
+telegram==0.0.1
